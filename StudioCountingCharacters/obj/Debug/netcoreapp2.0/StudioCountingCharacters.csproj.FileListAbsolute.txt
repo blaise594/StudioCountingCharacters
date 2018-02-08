@@ -1,0 +1,11 @@
+C:\Users\Ed\Documents\lc101\Unit-3\StudioCountingCharacters\StudioCountingCharacters\bin\Debug\netcoreapp2.0\StudioCountingCharacters.deps.json
+C:\Users\Ed\Documents\lc101\Unit-3\StudioCountingCharacters\StudioCountingCharacters\bin\Debug\netcoreapp2.0\StudioCountingCharacters.runtimeconfig.json
+C:\Users\Ed\Documents\lc101\Unit-3\StudioCountingCharacters\StudioCountingCharacters\bin\Debug\netcoreapp2.0\StudioCountingCharacters.runtimeconfig.dev.json
+C:\Users\Ed\Documents\lc101\Unit-3\StudioCountingCharacters\StudioCountingCharacters\bin\Debug\netcoreapp2.0\StudioCountingCharacters.dll
+C:\Users\Ed\Documents\lc101\Unit-3\StudioCountingCharacters\StudioCountingCharacters\bin\Debug\netcoreapp2.0\StudioCountingCharacters.pdb
+C:\Users\Ed\Documents\lc101\Unit-3\StudioCountingCharacters\StudioCountingCharacters\obj\Debug\netcoreapp2.0\StudioCountingCharacters.csprojResolveAssemblyReference.cache
+C:\Users\Ed\Documents\lc101\Unit-3\StudioCountingCharacters\StudioCountingCharacters\obj\Debug\netcoreapp2.0\StudioCountingCharacters.csproj.CoreCompileInputs.cache
+C:\Users\Ed\Documents\lc101\Unit-3\StudioCountingCharacters\StudioCountingCharacters\obj\Debug\netcoreapp2.0\StudioCountingCharacters.AssemblyInfoInputs.cache
+C:\Users\Ed\Documents\lc101\Unit-3\StudioCountingCharacters\StudioCountingCharacters\obj\Debug\netcoreapp2.0\StudioCountingCharacters.AssemblyInfo.cs
+C:\Users\Ed\Documents\lc101\Unit-3\StudioCountingCharacters\StudioCountingCharacters\obj\Debug\netcoreapp2.0\StudioCountingCharacters.dll
+C:\Users\Ed\Documents\lc101\Unit-3\StudioCountingCharacters\StudioCountingCharacters\obj\Debug\netcoreapp2.0\StudioCountingCharacters.pdb
